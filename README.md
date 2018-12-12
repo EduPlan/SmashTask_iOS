@@ -85,7 +85,9 @@ A time management and study tool app for STEM majors on iOS. This task scheduler
 ---
 
 ### Wireframes
+<img src="https://i.imgur.com/BW0wdFq.png" width=200> <img src="https://i.imgur.com/GURIVIV.png" width=200> <img src="https://i.imgur.com/evLzo4X.png" width=200> <img src="https://i.imgur.com/HE3YH2T.png" width=200>
 
 ---
 
 ### App Pitch Presentation
+https://docs.google.com/presentation/d/1B4fMbaSWmHfAdD7BI_ejr3J7PfhKgWK9huEyV0OtmZ8/edit?usp=sharing
